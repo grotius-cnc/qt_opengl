@@ -13,4 +13,4 @@ Copyright 2008-2019 The Qt Company Ltd. All rights reserved.
 
 The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
-![opengl](qt_opengl.png)
+<img src="/docs/logo.png" alt="My cool logo"/>
