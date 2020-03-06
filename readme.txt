@@ -1,5 +1,8 @@
 empty QT opengl project
 
+![alt text](https://raw.githubusercontent.com/grotius-cnc/QT_opengl/master/qt_opengl.png)
+
+
 buid with linux 
 
 Qt Creator 4.8.2
@@ -12,5 +15,3 @@ From revision 04aac85e26
 Copyright 2008-2019 The Qt Company Ltd. All rights reserved.
 
 The program is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
-
-<img src="https://raw.githubusercontent.com/grotius-cnc/QT_opengl/master/qt_opengl.png" alt="pic"/>
