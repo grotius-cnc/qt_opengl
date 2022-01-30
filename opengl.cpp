@@ -38,8 +38,11 @@ void opengl::resizeGL(int w, int h)
 void opengl::paintGL()
 {  
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
-
-
+    glBegin(GL_LINES);
+    //glColor3f(1.0f, 0.0f, 1.0f);
+    glVertex3d(0, 0, 0);  //xyz start
+    glVertex3d(100, 0, 0);  //xyz end
+    glEnd();
 }
 
 void opengl::wheelEvent(QWheelEvent *event)
